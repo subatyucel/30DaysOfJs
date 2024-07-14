@@ -1,0 +1,2 @@
+- Hello, this repo is for exercises of [30DaysOfJavascript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
+- You can change branches for see the exercises of each day.
